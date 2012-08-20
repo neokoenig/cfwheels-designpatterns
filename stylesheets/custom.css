@@ -1,0 +1,17 @@
+/* CSS Document */
+
+body {padding-top:60px;}
+
+/* Helpers */
+.append {margin-bottom:10px;}
+
+/* cfWheels Boostrap style */
+.alert p {margin-bottom:0;}
+ul.alert {margin-left:0; padding-left:25px;}
+p.formHint {margin:-10px 0 10px 160px; color:#666;   padding:0;}
+.fieldWithErrors .control-group > label, .fieldWithErrors .control-group .help-block, .fieldWithErrors .control-group .help-inline {color: #b94a48;}
+.fieldWithErrors .control-group input, .fieldWithErrors .control-group select, .fieldWithErrors .control-group textarea {color: #b94a48; border-color: #b94a48;}
+.fieldWithErrors .control-group input:focus, .fieldWithErrors .control-group select:focus, .fieldWithErrors .control-group textarea:focus {border-color: #953b39;-webkit-box-shadow: 0 0 6px #d59392;-moz-box-shadow: 0 0 6px #d59392;box-shadow: 0 0 6px #d59392;}
+.fieldWithErrors .control-group .input-prepend .add-on, .fieldWithErrors .control-group .input-append .add-on {color: #b94a48;background-color: #f2dede;border-color: #b94a48;}
+.pagination a:hover, .pagination a.active {background-color: #f5f5f5; cursor:pointer;}
+.pagination a.active {color: #999999;cursor: default;}
